@@ -1,0 +1,15 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "Demo repo on CI/CD pipeline of GitHub - GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/chrisaugu/ci-cd-demo"
+  },
+  "author": "Christian Augustyn",
+  "license": "MIT"
+}
