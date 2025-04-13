@@ -2,18 +2,19 @@
   "name": "ci-cd-demo",
   "version": "1.0.0",
   "description": "Demo repo on CI/CD pipeline of GitHub - GitHub Actions",
+  "homepage": "https://chrisaugu.github.io/ci-cd-demo/",
+  "author": "Christian Augustyn",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "node --test"
   },
+  "dependencies": {
+    "underscore": "^1.13.7"
+  },
   "repository": {
     "type": "git",
     "url": "github.com/chrisaugu/ci-cd-demo"
-  },
-  "author": "Christian Augustyn",
-  "license": "MIT",
-  "dependencies": {
-    "underscore": "^1.13.7"
   }
 }
