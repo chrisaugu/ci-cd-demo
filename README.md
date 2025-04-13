@@ -5,3 +5,8 @@
 [![Build](https://github.com/chrisaugu/ci-cd-demo/actions/workflows/build.yaml/badge.svg)](https://github.com/chrisaugu/ci-cd-demo/actions/workflows/build.yaml)
 [![CI/CD for react Todo](https://github.com/chrisaugu/ci-cd-demo/actions/workflows/main.yaml/badge.svg)](https://github.com/chrisaugu/ci-cd-demo/actions/workflows/main.yaml)
 [![Deploy To Production](https://github.com/chrisaugu/ci-cd-demo/actions/workflows/deploy_prod.yml/badge.svg)](https://github.com/chrisaugu/ci-cd-demo/actions/workflows/deploy_prod.yml)
+
+
+master <- develop <- features 
+<- support 
+<- hotfix
